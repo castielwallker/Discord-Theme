@@ -13,10 +13,10 @@
     'use strict';
 
     GM_addStyle(`
-        @import url("https://milbits.github.io/oldcord/src/components/imgs.css");
-        @import url("https://milbits.github.io/oldcord/src/components/other.css");
-        @import url("https://milbits.github.io/oldcord/src/components/redesign.css");
-        @import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+        @import url("https://github.com/castielwallker/Discord-Theme/raw/refs/heads/main/imgs.css");
+        @import url("https://github.com/castielwallker/Discord-Theme/raw/refs/heads/main/other.css");
+        @import url("https://github.com/castielwallker/Discord-Theme/raw/main/redesign.css");
+        @import url('https://github.com/castielwallker/Discord-Theme/raw/refs/heads/main/theme.css');
 
         /* Fundo personalizado */
         body::before {
